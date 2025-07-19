@@ -1,0 +1,23 @@
+{
+  "name": "059_maitrimehta_701_a1",
+  "version": "1.0.0",
+  "main": "getHello.js",
+  "scripts": {
+    "server": "node Ques8/server.js",
+    "test": "node Ques8/test.js",
+    "user:script1": "node Ques8/scripts/script1",
+    "user:script2": "node Ques8/scripts/script2",
+    "user:script3": "node Ques8/scripts/script3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "emoji-log-level": "^1.0.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.10",
+    "readline-sync": "^1.4.10"
+  },
+  "description": ""
+}

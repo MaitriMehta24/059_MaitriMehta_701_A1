@@ -1,0 +1,24 @@
+{
+  "name": "emoji-log-level",
+  "version": "1.0.0",
+  "description": "Console logger with emoji and color per log level (info, warn, error, debug)",
+  "main": "index.js",
+  "keywords": [
+    "logger",
+    "console",
+    "emoji",
+    "log",
+    "debug",
+    "color"
+  ],
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehta Maitri",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^5.1.0"
+  }
+} 
